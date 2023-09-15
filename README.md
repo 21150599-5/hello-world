@@ -1,2 +1,3 @@
-# hello-world
-Hello World!
+# Hello-World
+### Atividade de estudo 1 - Tópico especiais 
+#### Fernando Mercado 🚀🚀🚀
